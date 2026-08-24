@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akshaytoshniwal
-- 👀 I’m interested in Collaborating and Connecting with like-minded professionals working in the field of artificial intelligence and data.
-- 🌱 I’m currently working on different self-created data science and AI projects that helps me showcase the work and learn as well.
+- 👀 I am working as an AI Solutions Architect at Holistic AI in the field of AI Governance.
 - 💞️ I’m looking to collaborate on data, artificial intelligence, machine learning, and different technologies.
 - 📫 You can reach me on LinkedIn at: https://linkedin.com/in/akshaytoshniwal (I share lots of insights on LinkedIn).
 
